@@ -8,6 +8,9 @@ int main()
 {
 
    cout<<"Hola mundo!!"<<endl;
+   char[100] a;
+   cout<<"Ingrese el mensaje que quiera dar"<<endl;
+   cin>>a;
     system("pause");
     return 0;
 
